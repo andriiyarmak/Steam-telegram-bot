@@ -1,0 +1,5 @@
+python-telegram-bot==20.0  # Версию уточняйте по необходимости
+selenium==4.8.2
+loguru==0.6.0
+webdriver-manager==3.8.6
+playwright==1.32.1
